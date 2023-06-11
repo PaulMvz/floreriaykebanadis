@@ -5,8 +5,8 @@ Paul Jainor Meléndez Vilcas
 - contact.html
 -
 Jhon Franklin Romero Ramos
-- 
--  
--
--
+- Shoop
+- About
+- Contact
+- Cuenta de usuario
 -
